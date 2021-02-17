@@ -1,2 +1,2 @@
-# Technorbit-C_programs
+# Technorbit C programs
 programs by using c language
