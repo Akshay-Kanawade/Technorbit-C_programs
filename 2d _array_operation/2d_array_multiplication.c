@@ -1,4 +1,4 @@
-/* substraction of 2d array */
+// substraction of 2d array 
 
 //in array multiplication the no of rows of one array is equal to no of col of another array
 
