@@ -1,4 +1,4 @@
-/* addition of 2d array */
+// addition of 2d array 
 
 
 
