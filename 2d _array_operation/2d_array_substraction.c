@@ -1,4 +1,4 @@
-/* substraction of 2d array */
+// substraction of 2d array 
 
 
 
