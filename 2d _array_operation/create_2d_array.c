@@ -1,4 +1,4 @@
-/* create 2d array */
+//  create 2d array 
 
 
 
