@@ -11,8 +11,7 @@ linear_search(int a[],int n,int ele)
 		{
 			flag=1;
 			break;
-		}
-		
+		}	
 	}
 	if(flag==1)
 			printf("ele found at loc:%d",i);
